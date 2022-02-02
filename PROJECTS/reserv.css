@@ -1,0 +1,105 @@
+@media(max-width: 600px){
+     
+     body{
+         background-image: url("../IMAGE/back-6.jpeg");
+  width: 100%;
+ 
+
+
+     }
+     .row{
+  display: grid;
+  
+}
+.column{
+width: 50%;
+  
+  
+
+}
+.button {
+  border: none;
+
+  padding: 15rem 12rem;
+  
+
+
+  transition-duration: 0.4s;
+  cursor: pointer;
+  
+  border-radius: 2rem;
+  width: 100%;
+}
+
+.button1 {
+  background-color:  transparent; 
+  color: black; 
+  border: 3px solid #4b5e7a;
+  width:80%;
+}
+
+.button1:hover {
+  background-image: url("../IMAGE/back-3.png");
+  
+
+}
+
+.button2 {
+  background-color: transparent; 
+
+  border: 3px solid  #4b5e7a;
+}
+
+.button2:hover {
+  background-image: url("../IMAGE/back-3.png");
+  
+
+}
+
+ }
+
+ /*-------------body------*/
+
+
+ .row{
+
+}
+.column{
+    
+}
+.button {
+  border: none;
+  color: white;
+  padding: 6rem 10rem;
+  
+  
+  font-size: 16px;
+  margin: 4rem ;
+  transition-duration: 0.4s;
+  cursor: pointer;
+
+  border-radius: 2rem;
+  
+}
+
+.button1 {
+  background-color:  transparent; 
+  color: black; 
+  border: 3px solid #4b5e7a;
+}
+
+.button1:hover {
+  background-image: url("../IMAGE/back-3.png");
+  width: 100%;
+  
+}
+
+.button2 {
+  background-color: transparent; 
+  color: black; 
+  border: 3px solid  #4b5e7a;
+}
+
+.button2:hover {
+  background-image: url("../IMAGE/back-3.png");
+  width: 100%;
