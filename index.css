@@ -87,7 +87,7 @@ body{
     font-family: barlow;
     text-align: center;
     color: rgb(245, 235, 235);
-    height: 1rem;
+    height: 14rem;
     
   
 }
@@ -121,7 +121,7 @@ margin-top: 2rem;
      .text-blocks{
          font-size: 10px;
          margin-top: 28rem;
-         color: rgb(6, 3, 32);
+         color: rgb(224, 223, 238);
          text-align: center;
          height: 14rem;
          
@@ -131,7 +131,7 @@ margin-top: 2rem;
      body{
          background-image: url("./IMAGE/IMG_2784.jpg");
   width: 100%;
-  max-height: 870px;
+  max-height: 890px;
 
 
      }
