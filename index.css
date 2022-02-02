@@ -86,7 +86,7 @@ body{
 .text-blocks{
     font-family: barlow;
     text-align: center;
-    color: white;
+    color: rgb(245, 235, 235);
     height: 1rem;
     
   
@@ -99,7 +99,7 @@ margin-top: 2rem;
 .button {
   background-color: #4c5baf; /* Green */
   border: none;
-  color: rgb(255, 255, 255);
+  color: rgb(245, 234, 234);
   padding: 8px 52px;
   border-radius: 25px;
   text-align: center;
@@ -109,7 +109,7 @@ margin-top: 2rem;
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer; 
-  border: 2px solid #0ca7ce;
+  border: 2px solid #cfc3bb;
   margin-top: 2rem;
   
 }
@@ -117,19 +117,21 @@ margin-top: 2rem;
 
 
 /*------------------body @media here-----------*/
- @media(max-width: 600px){
+ @media(max-width: 500px){
      .text-blocks{
          font-size: 10px;
-         margin-top: 32rem;
-         color: rgb(11, 22, 1);
+         margin-top: 28rem;
+         color: rgb(6, 3, 32);
          text-align: center;
+         height: 14rem;
          
          
      }
+     
      body{
-         background-image: url("../IMAGE/back-6.jpeg");
+         background-image: url("./IMAGE/IMG_2784.jpg");
   width: 100%;
-  max-height: 900px;
+  max-height: 870px;
 
 
      }
